@@ -2,7 +2,7 @@
 Борисова
 
 1.
-Medvedev
+
 
 2.
 Emashev
@@ -21,6 +21,8 @@ Shenkneht
 karataev
 kanzuchakova
 6.
+Luchak
+   Tutova
 
 
 7.
@@ -32,7 +34,7 @@ poletykina
 
 
 9.
-    Гайер
+
 
 10.
 Terskih
